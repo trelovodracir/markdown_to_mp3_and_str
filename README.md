@@ -122,7 +122,7 @@ de Assis que esta em um arquivo Markdown
 
 ## Áudio em MP3 Exemplo
 
-*   ![Vídeo de Demonstração](https://github.com/user-attachments/assets/153a8e6c-596e-413a-956d-556dda90f272)
+[![Assista ao vídeo](https://img.youtube.com/vi/kYTkAG2OkYA/0.jpg)](https://youtu.be/kYTkAG2OkYA)
 
 # Observações
 
