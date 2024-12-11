@@ -10,6 +10,7 @@ Este é um script Python que converte arquivos Markdown para áudio utilizando o
 * Biblioteca `subprocess`
 * Código `edge-tts` instalado no sistema (![Repositório do Projeto](https://github.com/rany2/edge-tts))
 
+
 ```shell
 $ pip install edge-tts
 ```
