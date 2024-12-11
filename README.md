@@ -122,7 +122,7 @@ de Assis que esta em um arquivo Markdown
 
 ## Áudio em MP3 Exemplo
 
-*   ![[./model/output/note_-_Dec_11_2024_12-21.mp4]]
+*   ![Vídeo de Demonstração](https://github.com/user-attachments/assets/153a8e6c-596e-413a-956d-556dda90f272)
 
 # Observações
 
