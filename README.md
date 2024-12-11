@@ -117,7 +117,7 @@ foi justamente isso que me mortificou Onze amigos este foi
 um trecho de Memórias Póstumas de Brás Cubas de Machado
 
 00:00:51.433 --> 00:00:53.279
-de Assis que esta em um arquivo Markdown
+de Assis que está em um arquivo Markdown
 ```
 
 ## Áudio em MP3 Exemplo
