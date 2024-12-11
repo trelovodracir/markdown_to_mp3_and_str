@@ -51,12 +51,12 @@ contos e fui acompanhado ao cemitério por onze amigos Onze
 00:00:43.212 --> 00:00:46.019
 amigos Verdade é que não houve cartas nem anúncios mas
 
-00:00:46.029 --> 00:00:49.029
+00:00:46.029 --> 00:00:49.019
 foi justamente isso que me mortificou Onze amigos este foi
 
-00:00:49.038 --> 00:00:51.423
+00:00:49.029 --> 00:00:51.404
 um trecho de Memórias Póstumas de Brás Cubas de Machado
 
-00:00:51.433 --> 00:00:53.279
-de Assis que esta em um arquivo Markdown
+00:00:51.413 --> 00:00:53.837
+de Assis que está disponível em um arquivo Markdown
 
