@@ -8,7 +8,8 @@ Este é um script Python que converte arquivos Markdown para áudio utilizando o
 
 * Python 3.x (Este código foi desenvolvido em ambiente Anaconda com Python 3.12.7)
 * Biblioteca `subprocess`
-* Software `edge-tts` instalado no sistema (![Github do Projeto](https://github.com/rany2/edge-tts))
+* Código `edge-tts` instalado no sistema (![Repositório do Projeto](https://github.com/rany2/edge-tts))
+
 
 ```shell
 $ pip install edge-tts
@@ -121,7 +122,7 @@ de Assis que esta em um arquivo Markdown
 
 ## Áudio em MP3 Exemplo
 
-*   ![[./model/output/note_-_Dec_11_2024_11-35.mp3]]
+*   ![[./model/output/note_-_Dec_11_2024_12-21.mp4]]
 
 # Observações
 
