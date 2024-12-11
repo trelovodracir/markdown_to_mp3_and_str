@@ -9,4 +9,4 @@ Moisés, que também contou a sua morte, não a pôs no intróito, mas no cabo; 
 Dito isto, expirei às duas horas da tarde de uma sexta-feira do mês de agosto de 1869, na minha bela chácara de Catumbi. Tinha uns sessenta e quatro anos, rijos e prósperos, era solteiro, possuía cerca de trezentos contos e fui acompanhado ao cemitério por onze amigos. Onze amigos! Verdade é que não houve cartas nem anúncios; mas foi justamente isso que me mortificou. Onze amigos!
 
 
-... este foi um trecho de `Memórias Póstumas de Brás Cubas` de `Machado de Assis`, que esta em um arquivo Markdown.
+... este foi um trecho de `Memórias Póstumas de Brás Cubas` de `Machado de Assis`, que está disponível em um arquivo Markdown.
