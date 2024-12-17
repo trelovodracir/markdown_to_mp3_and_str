@@ -450,3 +450,13 @@ Examples={
 # Licença
 
 Este código está disponível sob a licença MIT.
+
+## Star History
+
+<a href="https://star-history.com/#trelovodracir/markdown_to_mp3_and_str&Timeline">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=trelovodracir/markdown_to_mp3_and_str&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=trelovodracir/markdown_to_mp3_and_str&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=trelovodracir/markdown_to_mp3_and_str&type=Timeline" />
+ </picture>
+</a>
