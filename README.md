@@ -123,6 +123,8 @@ de Assis que está em um arquivo Markdown
 
 [![Watch the video](https://img.youtube.com/vi/kYTkAG2OkYA/0.jpg)](https://youtu.be/kYTkAG2OkYA)
 
+[<a href="https://img.youtube.com/vi/kYTkAG2OkYA/0.jpg)](https://youtu.be/kYTkAG2OkYA">Watch the video</a>]
+
 # Notes
 
 * Make sure the Markdown file exists before trying to convert;
