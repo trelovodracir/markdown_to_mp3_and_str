@@ -8,7 +8,7 @@ This is a Python script that converts Markdown files to audio using the `edge-tt
 
 * Python 3.x (This code was developed in Anaconda environment with Python 3.12.7)
 * `subprocess` library
-* `edge-tts` code installed on the system (![Project Repository](https://github.com/rany2/edge-tts))
+* `edge-tts` code installed on the system (<a href="https://github.com/rany2/edge-tts">Project Repository</a>)
 
 ```shell
 $ pip install edge-tts
