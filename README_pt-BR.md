@@ -124,6 +124,8 @@ de Assis que está em um arquivo Markdown
 
 [![Assista ao vídeo](https://img.youtube.com/vi/kYTkAG2OkYA/0.jpg)](https://youtu.be/kYTkAG2OkYA)
 
+[<a href="https://img.youtube.com/vi/kYTkAG2OkYA/0.jpg)](https://youtu.be/kYTkAG2OkYA">Assista ao vídeo</a>]
+
 # Observações
 
 *   Verifique se o arquivo Markdown existe antes de tentar converter;
