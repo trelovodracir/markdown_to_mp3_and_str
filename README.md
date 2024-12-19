@@ -121,8 +121,6 @@ de Assis que está em um arquivo Markdown
 
 ## MP3 Audio Example
 
-[![Watch the video](https://img.youtube.com/vi/kYTkAG2OkYA/0.jpg)](https://youtu.be/kYTkAG2OkYA)
-
 [Video](https://github.com/user-attachments/assets/bf24ec15-eb5d-4e95-b831-2fdfb3d92218)
 
 [<a href="https://img.youtube.com/vi/kYTkAG2OkYA/0.jpg)](https://youtu.be/kYTkAG2OkYA">Watch the video</a>]
